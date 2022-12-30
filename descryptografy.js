@@ -44,7 +44,7 @@ const desencrypt_bin = (text) => {
 const desencrypt_number = (text) => {
   const dat = [];
   text.split(' ').map((i) => {
-    alf.filter((a, b) => {
+    alphabet.filter((a, b) => {
       if ((Number(i) - 1) == b) {
         dat.push(a);
       }
