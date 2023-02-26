@@ -2,6 +2,11 @@
 
 With this package you'll be able to encrypt all the letters of the alphabet for three types of encryption.
 
+
+# How to install
+
+Run ``npm i @danielxavierjob/cripto-alphabet``
+
 ## Encryptions
 
 - three types of current encryption:
