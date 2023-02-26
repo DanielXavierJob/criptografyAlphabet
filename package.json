@@ -1,0 +1,26 @@
+{
+  "name": "@danielxavierjob/cripto-alphabet",
+  "version": "1.0.0",
+  "description": "Crypto alphabet in many options",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielXavierJob/criptografyAlphabet.git"
+  },
+  "keywords": [
+    "crypto",
+    "cryptografy"
+  ],
+  "author": "Daniel Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielXavierJob/criptografyAlphabet/issues"
+  },
+  "homepage": "https://github.com/DanielXavierJob/criptografyAlphabet#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
