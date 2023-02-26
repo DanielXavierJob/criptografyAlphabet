@@ -10,18 +10,18 @@ Run ``npm i @danielxavierjob/cripto-alphabet``
 ## Encryptions
 
 - three types of current encryption:
- - hex
- - binary
- - number
+  - hex
+  - binary
+  - number
 
 - function to encrypt and decrypt are prefix of real functions
 
- - encryptHex
- - encryptNumber
- - encryptBinary
- - decryptHex
- - decryptNumber
- - decryptBinary
+  - encryptHex
+  - encryptNumber
+  - encryptBinary
+  - decryptHex
+  - decryptNumber
+  - decryptBinary
 
 
 To encrypt just call the function (prefix encrypt)(Cryptography)
