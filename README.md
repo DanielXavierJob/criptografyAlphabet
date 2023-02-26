@@ -26,7 +26,7 @@ Run ``npm i @danielxavierjob/cripto-alphabet``
 
 To encrypt just call the function (prefix encrypt)(Cryptography)
 
-Ex: ``encryptHex("Hello world")``,
+Ex: ``encryptNumber("Hello world")``,
 
 Result:
 ``"8 31 38 38 41 0 49 41 44 38 30"``
