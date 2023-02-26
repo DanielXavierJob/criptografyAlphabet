@@ -14,7 +14,13 @@
     "crypto",
     "cryptografy"
   ],
-  "author": "Daniel Xavier",
+  "author": {
+    "name": "Daniel Xavier",
+    "email": "danielxavier.job@gmail.com"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/danielxavierjob"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DanielXavierJob/criptografyAlphabet/issues"
